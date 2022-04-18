@@ -1,9 +1,3 @@
----
-title: Md's Personal Blog 
-layout: home
-nav_exclude: true 
-
----
 
 ## Welcome to my personal blog! 
 
