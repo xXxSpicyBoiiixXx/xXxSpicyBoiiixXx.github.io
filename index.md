@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to my personal blog! 
 
-You can use the [editor on GitHub](https://github.com/xXxSpicyBoiiixXx/xXxSpicyBoiiixXx.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xXxSpicyBoiiixXx/xXxSpicyBoiiixXx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My name is Md Ali and I'm based in the city of Chicago. I have a deep passion for continous learning, currently I am a PhD student in Computer Science but I am also interested in the aspects of mathematics and phyiscs. Overall this is more of my personal life as well as my journey through academia starting from the very beginning until now. There will also be free resources and such for learning as it helps me to teach material to have a deeper understanding than just class work. (I'm looking at you lol we all skimp out on actual classwork and I'm also an unconvential learner). Overall, welcome to my blog and I'm glad you spent the time to come see it! 
