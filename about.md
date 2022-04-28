@@ -1,0 +1,3 @@
+nks for visiting, my name is Md Ali (I think you got that from the homepage obviously) and this is my blog. This is mainly a personal blog about me, math, science, etc. Now I know what you're thinking, ewww math, what the fuck, science, really Md? But trust me this will be really infromal way of showing neat shit. In addition, I'm just going to start this by doing a personal blog. This page specfically is more about who I am, what I do, and all that good stuff!
+
+Now for the fun stuff more about me and how I ended up on the track of doing a PhD in the first place (probably the smartest and not smartest life choices but I don't regret the descion at all).
