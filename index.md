@@ -8,6 +8,7 @@ My name is Md Ali and I'm based in the city of Chicago. I have a deep passion fo
 I am pretty responsive, feel free to message me with any questions or concerns you may have and I will get back to you as soon as I can :) 
 
 Phone: +1 (312)-882-5544 
+
 E-Mail: mali54@hawk.iit.edu
 
  
