@@ -9,6 +9,6 @@ I am pretty responsive, feel free to message me with any questions or concerns y
 
 Phone: +1 (312)-882-5544 
 
-E-Mail: mali54@iit.edu
+E-Mail: mdhaliev@gmail.com
 
  
